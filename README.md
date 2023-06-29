@@ -4,7 +4,7 @@ This project is a fork of two existing projects by RoTechnic: [CycloidalDesign](
 
 ## About
 
-Cycloid Generator is a powerful tool that allows you to generate external and internal cycloid shapes. It provides a user-friendly GUI menu that enables you to configure various parameters related to the shape, including the type of shape, the number of pins, pin radius, pitch radius, contraction, and geometric complexity.
+Cycloid Generator is a powerful tool that allows you to generate external and internal cycloid shapes in Fusion 360. It provides a user-friendly GUI menu that enables you to configure various parameters related to the shape, including the type of shape, the number of pins, pin radius, pitch radius, contraction, and geometric complexity.
 
 ## Features
 
