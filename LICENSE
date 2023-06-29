@@ -1,6 +1,18 @@
 MIT License with Additional Conditions
 
+Acknowledgments:
+
+Cycloid Generator is a fork of the following projects by RoTechnic:
+- [CycloidalDesign](https://github.com/roTechnic/CycloidalDesign)
+- [internalECGears](https://github.com/roTechnic/internalECGears)
+
+Thank you to RoTechnic for their valuable contributions and inspiration.
+
+---
+
 The following license applies to the project Cycloid Generator.
+The licensing terms for this project apply to the modifications made by Ben Martin Burke. However, it's important to note that the original work by RoTechnic may have its own licensing requirements. Please consult the respective repositories of [CycloidalDesign](https://github.com/roTechnic/CycloidalDesign) and [internalECGears](https://github.com/roTechnic/internalECGears) to understand the licensing terms for their code.
+
 
 ---
 
